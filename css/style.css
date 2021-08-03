@@ -68,11 +68,12 @@ body{
 ------------------------------------------------------------------------- */
 .logo{
     padding-bottom: 5%;
+    opacity: 0.8;
 }
 .logo p{
     color: #ffffff;
     padding-top: 20px;
-    font-style: italic;
+    font-family: 'Nanum Gothic Coding', monospace;
 }
 #home .large-header {
 	background-image: url("../images/pattern.png"),url('../images/img-1.jpg');
