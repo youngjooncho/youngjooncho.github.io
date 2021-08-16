@@ -635,10 +635,9 @@
 }
 
 .u-section-3 .u-image-1 {
-  height: 494px;
-  animation-duration: 1000ms;
-  margin-top: 83px;
+  height: 493px;
   margin-bottom: 60px;
+  margin-top: 57px;
 }
 
 @media (max-width: 1199px) {
@@ -657,16 +656,16 @@
 
 @media (max-width: 767px) {
   .u-section-3 .u-text-1 {
-    margin-right: calc(((100% - 540px) / 2));
     margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-text-1 {
     font-size: 1.5rem;
-    margin-right: calc(((100% - 340px) / 2));
     margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
   }
 }.u-block-5f9f-2 {
   position: absolute;
