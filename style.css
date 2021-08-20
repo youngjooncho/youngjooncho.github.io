@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+/************* Common *************/
+
+@font-face {
+    src : url("../fonts/Apple.ttf");
+    font-family : "apple";
+ }
+head{
+    font-family: apple;
+}
+body{
+    font-family: apple;
+}

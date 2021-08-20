@@ -1,3 +1,9 @@
+@font-face {
+    src : url("../fonts/Apple.ttf");
+    font-family : "apple";
+ }
+* { font-family: "apple" !important; }
+
 .u-section-1 .u-sheet-1 {
   min-height: 177px;
 }

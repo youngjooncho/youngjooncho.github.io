@@ -1,3 +1,10 @@
+@font-face {
+    src : url("../fonts/Apple.ttf");
+    font-family : "apple";
+ }
+* { font-family: "apple" !important; }
+
+
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/34e82aab6d4c2fe00630c49a59855d1575ff6a89752baec4f7e907fdf8b56583e45573278f45ec32f631b87055d5668a59b77529bce8115fcfe4e8_1280.jpg");
 }
