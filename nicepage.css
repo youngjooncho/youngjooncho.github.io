@@ -36917,6 +36917,8 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -36957,11 +36959,13 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h2:not(.u-subtitle)
         {
-        font-weight: 400;
         font-size: 2.25rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         h3
         {
@@ -37237,10 +37241,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-3 {
-  font-size: 1.25rem;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
 }
 
 .u-header .u-nav-4 {
+  font-size: 1.25rem;
+}
+
+.u-header .u-nav-5 {
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-header .u-nav-6 {
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
 }
 @media (max-width: 1199px) {
