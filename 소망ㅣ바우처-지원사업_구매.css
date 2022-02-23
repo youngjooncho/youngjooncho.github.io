@@ -236,7 +236,6 @@
   min-height: 530px;
   margin-top: -103px;
   margin-bottom: 0;
-  height: auto;
 }
 
 .u-section-3 .u-carousel-indicators-1 {
@@ -257,7 +256,6 @@
 }
 
 .u-section-3 .u-text-1 {
-  background-image: none;
   margin: 36px 0 0;
 }
 
@@ -371,6 +369,10 @@
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 894px;
+  }
+
+  .u-section-3 .u-slider-1 {
+    height: auto;
   }
 
   .u-section-3 .u-image-6 {
