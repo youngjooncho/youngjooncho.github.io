@@ -246,7 +246,6 @@
 .u-section-3 .u-slider-1 {
   min-height: 420px;
   width: 1033px;
-  height: auto;
   margin: 10px 38px 0 auto;
 }
 
@@ -329,6 +328,7 @@
   }
 
   .u-section-3 .u-slider-1 {
+    height: auto;
     width: 940px;
     margin-right: 0;
   }
